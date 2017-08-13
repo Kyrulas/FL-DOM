@@ -1,0 +1,18 @@
+.studentImg{
+	width: 50px;
+	height: 50px;
+}
+tr{
+	cursor: pointer;
+}
+
+.table{
+	margin-top:150px;
+}
+
+.edit{
+	margin-top: 24px;
+}
+th span{
+	margin-left: 10px;
+}
